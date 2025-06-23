@@ -1,0 +1,19 @@
+{
+    "name": "gigamel/slon-router",
+    "autoload": {
+        "psr-4": {
+            "Slon\\Http\\Router\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Slon\\Http\\Router\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
