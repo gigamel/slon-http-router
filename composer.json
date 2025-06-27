@@ -1,5 +1,5 @@
 {
-    "name": "gigamel/slon-http-router",
+    "name": "slon/http-router",
     "autoload": {
         "psr-4": {
             "Slon\\Http\\Router\\": "src/"
